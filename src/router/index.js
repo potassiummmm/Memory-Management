@@ -7,7 +7,7 @@ Vue.use(VueRouter)
 const routes = [
     {
         path: '/',
-        name: 'MemoryInterface',
+        name: 'Home',
         component: Home
     },
 ]
